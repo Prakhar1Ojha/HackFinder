@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 HackFinder
 
-# Run and deploy your AI Studio app
+HackFinder is a modern hackathon discovery platform that brings hackathons from across the internet into one searchable place.
 
-This contains everything you need to run your app locally.
+Instead of checking platforms like Unstop, Devfolio, Devpost, HackerEarth, and others individually, HackFinder helps students, developers, designers, and AI enthusiasts discover opportunities, track deadlines, bookmark events, receive personalized recommendations, and connect with teammates—all from a single dashboard.
 
-View your app in AI Studio: https://ai.studio/apps/d691c7a1-07e7-4852-9626-3986cdb3f849
+## ✨ Features
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔍 Unified hackathon discovery
+- ⚡ Instant search & smart filters
+- 🤖 Personalized recommendations
+- 🔔 Deadline reminders & notifications
+- ⭐ Bookmark & watchlist support
+- 👥 Team formation & teammate matching
+- 📊 Opportunity dashboard & analytics
+- 🌙 Modern responsive dark UI
+- 🚀 Built with Next.js 15, TypeScript, Prisma & PostgreSQL
